@@ -1,6 +1,7 @@
 *.swp
 *.osm
 !map.osm
+!map_2.osm
 *.o
 draw.cpp
 test.cpp
@@ -8,3 +9,4 @@ build/
 bin/
 lib/
 .github/**
+.vscode/**
